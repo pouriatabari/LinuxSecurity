@@ -1,4 +1,5 @@
-# LinuxSecurity ![selinux-e1550825645755](https://user-images.githubusercontent.com/95964285/231522730-37355fa4-8387-47b4-9b51-bed2d69feb63.jpg)
+# LinuxSecurity  ![1200px-SELinux_logo svg](https://user-images.githubusercontent.com/95964285/231522830-bede36c6-add6-44e6-8669-86aad1d4cd47.png)
+
 
 ### In this repo we want to `learn` security of linux systems.
 
